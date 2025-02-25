@@ -1,6 +1,4 @@
-Here's a README.md for the given code:
 
-```markdown
 # To-Do List Application
 
 This is a simple To-Do List application built using React. It allows users to add, delete, mark tasks as completed, restore completed tasks, and rearrange tasks.
@@ -23,41 +21,10 @@ This is a simple To-Do List application built using React. It allows users to ad
   - Click on the trash icon to delete a task.
 - **Completed Tasks**: Tasks marked as completed appear in a separate section and can be restored back to the active list.
 
-## Installation
-
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/your-username/todo-list-react.git
-   ```
-2. Navigate into the project directory:
-   ```bash
-   cd todo-list-react
-   ```
-3. Install the dependencies:
-   ```bash
-   npm install
-   ```
-4. Start the development server:
-   ```bash
-   npm start
-   ```
-
 ## Technologies Used
 
 - React
 - useState Hook for state management
 
-## License
-
-This project is open-source and available under the MIT License.
-
-## Demo
-
-You can view the live demo of the To-Do List Application [here](#).
-
----
 
 If you have any questions or suggestions, feel free to open an issue or send a pull request.
-```
-
-Let me know if you'd like any changes!
